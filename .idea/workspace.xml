@@ -75,7 +75,54 @@
     <last-search-timestamp>1567697235371</last-search-timestamp>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40422fff-de57-457a-99e6-3925dd5896f2" name="Default Changelist" comment="" />
+    <list default="true" id="40422fff-de57-457a-99e6-3925dd5896f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/DefaultTextWatcher.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/LabelTextView.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/RoundRectImageView.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/VerifyButton.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/protocol/UserReq.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/ui/activity/LoginActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/res/drawable-xxhdpi/icon_phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/res/drawable-xxhdpi/icon_pwd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/res/drawable-xxhdpi/icon_user_name.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/res/drawable-xxhdpi/icon_verify_code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/res/drawable/gender_bg_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/res/drawable/gender_checked_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/res/drawable/gender_nor_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/res/drawable/gender_text_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_forget_pwd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_reset_pwd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_user_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ext/CommonExt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ext/CommonExt.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/activity/BaseMvpActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/activity/BaseMvpActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/fragment/BaseMvpFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/fragment/BaseMvpFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/HeaderBar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/HeaderBar.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/ProgressLoading.kt" beforeDir="false" afterPath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/ProgressLoading.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/api/UserApi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/api/UserApi.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/repository/UserRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/repository/UserRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/injection/component/UserComponent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/injection/component/UserComponent.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/LoginPresenter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/LoginPresenter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/view/LoginView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/view/LoginView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/service/UserService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/service/UserService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/service/impl/UserServiceImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/service/impl/UserServiceImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/ui/activity/RegisterActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/ui/activity/RegisterActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_register.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_register.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,15 +153,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.10/9d22e03b9f0a300edff23ccf219d406d12c3378f/rxjava-2.2.10-sources.jar!/io/reactivex/internal/operators/observable/ObservablePublishAlt.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/ui/activity/LoginActivity.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="136" selection-start-line="136" selection-end-line="136" />
-              <folding>
-                <element signature="e#3951#3952#0" expanded="true" />
-                <element signature="e#4028#4029#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="113">
+              <caret line="42" column="7" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/ui/activity/RegisterActivity.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_login.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="34" column="38" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -122,17 +184,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/LoginPresenter.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/api/UserApi.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="227">
+              <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -161,12 +214,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/BaseFragment.kt" />
-        <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/injection/module/LifecycleProvideModule.kt" />
-        <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/injection/component/ActivityComponent.kt" />
-        <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/BaseActivity.kt" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/UserCenter/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/jack/kotlinmall/MainActivity.kt" />
         <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/injection/module/UserModule.kt" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
@@ -176,12 +223,9 @@
         <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/activity/BaseActivity.kt" />
         <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/common/AppManager.kt" />
         <option value="$PROJECT_DIR$/BaseLibrary/src/main/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/HeaderBar.kt" />
-        <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/ProgressLoading.kt" />
         <option value="$PROJECT_DIR$/BaseLibrary/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/utils/NetWorkUtils.kt" />
         <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/presenter/view/BaseView.kt" />
-        <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/fragment/BaseMvpFragment.kt" />
         <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/presenter/BasePresenter.kt" />
         <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/utils/AppPrefsUtils.kt" />
         <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/common/BaseContants.kt" />
@@ -189,29 +233,38 @@
         <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/adapter/BaseRecyclerViewAdapter.kt" />
         <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/utils/DateUtils.kt" />
         <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/utils/GlideUtils.kt" />
-        <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/VerifyButton.kt" />
-        <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/activity/BaseMvpActivity.kt" />
         <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/common/ResultCode.kt" />
         <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/RegisterPresenter.kt" />
-        <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ext/CommonExt.kt" />
         <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/view/LoginPresenter.kt" />
+        <option value="$PROJECT_DIR$/BaseLibrary/build.gradle" />
+        <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/data/net/RetrofitFactory.kt" />
+        <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/api/UserApi.kt" />
+        <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/view/LoginView.kt" />
+        <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/protocol/UserReq.kt" />
         <option value="$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_reset_pwd.xml" />
         <option value="$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_user_info.xml" />
-        <option value="$PROJECT_DIR$/BaseLibrary/build.gradle" />
-        <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/view/LoginView.kt" />
-        <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/injection/component/UserComponent.kt" />
-        <option value="$PROJECT_DIR$/UserCenter/src/main/debug/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/ui/activity/RegisterActivity.kt" />
-        <option value="$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_register.xml" />
+        <option value="$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_forget_pwd.xml" />
         <option value="$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_login.xml" />
+        <option value="$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_register.xml" />
         <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/service/UserService.kt" />
-        <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/service/impl/UserServiceImpl.kt" />
-        <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/LoginPresenter.kt" />
         <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/repository/UserRepository.kt" />
-        <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/data/net/RetrofitFactory.kt" />
-        <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/protocol/UserReq.kt" />
-        <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/api/UserApi.kt" />
+        <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/injection/component/UserComponent.kt" />
+        <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/DefaultTextWatcher.kt" />
+        <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/ProgressLoading.kt" />
+        <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/VerifyButton.kt" />
+        <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/RoundRectImageView.kt" />
+        <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/LabelTextView.kt" />
+        <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/HeaderBar.kt" />
+        <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/BottomNavBar.kt" />
+        <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/BannerImageLoader.kt" />
+        <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/fragment/BaseMvpFragment.kt" />
+        <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/activity/BaseMvpActivity.kt" />
+        <option value="$PROJECT_DIR$/UserCenter/src/main/debug/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/service/impl/UserServiceImpl.kt" />
+        <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ext/CommonExt.kt" />
         <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/ui/activity/LoginActivity.kt" />
+        <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/LoginPresenter.kt" />
+        <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/ui/activity/RegisterActivity.kt" />
       </list>
     </option>
   </component>
@@ -242,63 +295,7 @@
             <path>
               <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
               <item name="BaseLibrary" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
-              <item name="BaseLibrary" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="baselibrary" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
-              <item name="BaseLibrary" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="baselibrary" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
-              <item name="BaseLibrary" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="baselibrary" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
-              <item name="BaseLibrary" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="baselibrary" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="net" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
-              <item name="BaseLibrary" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="baselibrary" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="ext" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
-              <item name="BaseLibrary" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="baselibrary" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="rx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
-              <item name="BaseLibrary" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="baselibrary" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
-              <item name="BaseLibrary" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="baselibrary" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="widgets" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
             </path>
             <path>
               <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
@@ -335,37 +332,6 @@
               <item name="UserCenter" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="user" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="protocol" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
-              <item name="UserCenter" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="user" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="repository" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
-              <item name="UserCenter" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="user" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
-              <item name="UserCenter" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="user" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
-              <item name="UserCenter" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="user" type="cbb59c9e:AndroidPsiDirectoryNode" />
               <item name="ui" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -375,11 +341,6 @@
               <item name="user" type="cbb59c9e:AndroidPsiDirectoryNode" />
               <item name="ui" type="462c0819:PsiDirectoryNode" />
               <item name="activity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
-              <item name="UserCenter" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
             </path>
             <path>
               <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
@@ -432,8 +393,8 @@
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
       <recent name="com.jack.user.data.protocol" />
       <recent name="com.jack.user.presenter.view" />
-      <recent name="com.jack.user.presenter" />
       <recent name="com.jack.user.ui.activity" />
+      <recent name="com.jack.user.presenter" />
       <recent name="com.jack.baselibrary.ui.fragment" />
     </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
@@ -446,11 +407,11 @@
       <recent name="com.jack.baselibrary.ui" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/UserCenter/src/main/res/drawable" />
-      <recent name="$PROJECT_DIR$/UserCenter/src/main/res/values" />
-      <recent name="$PROJECT_DIR$/UserCenter/src/main/res/layout" />
-      <recent name="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/common" />
+      <recent name="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/ui/activity" />
+      <recent name="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets" />
       <recent name="$PROJECT_DIR$/UserCenter/src/main/res" />
+      <recent name="$PROJECT_DIR$/UserCenter/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/UserCenter/src/main/res/drawable" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -615,7 +576,7 @@
       <window_info id="Designer" order="6" />
       <window_info id="Resources Explorer" order="7" />
       <window_info id="Capture Tool" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32960895" />
       <window_info anchor="bottom" id="Logcat" order="1" weight="0.7932961" />
       <window_info anchor="bottom" id="TODO" order="2" weight="0.32960895" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32960895" />
@@ -643,207 +604,15 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ext/CommonExt.kt</url>
-          <line>46</line>
+          <url>file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/injection/component/UserComponent.kt</url>
+          <line>2</line>
           <properties />
-          <option name="timeStamp" value="9" />
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/res/drawable/gender_text_selector.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BaseLibrary/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="73" column="43" selection-start-line="73" selection-start-column="43" selection-end-line="73" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_reset_pwd.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_user_info.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/fragment/BaseMvpFragment.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/RegisterPresenter.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/build/generated/source/kapt/debug/com/jack/user/injection/component/DaggerUserComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/activity/BaseMvpActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="47" column="34" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/debug/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_register.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-172">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_login.xml">
-      <provider editor-type-id="android-designer2" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/ui/activity/RegisterActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="46" column="21" lean-forward="true" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/injection/component/UserComponent.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/injection/module/UserModule.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/protocol/RegisterReq.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/repository/UserRepository.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/commons-base/0.10.8/a7b9886dd34c114aebcbcd7c492855425b2300e1/commons-base-0.10.8-sources.jar!/dialogs/Toasts.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/view/LoginView.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/data/net/RetrofitFactory.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/service/UserService.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding>
-            <element signature="e#31#104#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/service/impl/UserServiceImpl.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="17" column="65" selection-start-line="17" selection-start-column="65" selection-end-line="17" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/data/protocol/BaseResp.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ext/CommonExt.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.10/9d22e03b9f0a300edff23ccf219d406d12c3378f/rxjava-2.2.10-sources.jar!/io/reactivex/Observable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="2388" selection-start-line="2388" selection-end-line="2388" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.10/9d22e03b9f0a300edff23ccf219d406d12c3378f/rxjava-2.2.10-sources.jar!/io/reactivex/internal/functions/ObjectHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.10/9d22e03b9f0a300edff23ccf219d406d12c3378f/rxjava-2.2.10-sources.jar!/io/reactivex/exceptions/Exceptions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/70fca5cd856d0cc740e43affeb6f661204fdb2cc/okhttp-3.4.1-sources.jar!/okhttp3/internal/connection/StreamAllocation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="321">
@@ -1026,31 +795,270 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/LoginPresenter.kt">
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserCenter/build/generated/source/kapt/debug/com/jack/user/presenter/LoginPresenter_MembersInjector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/RegisterPresenter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="24" column="11" lean-forward="true" selection-end-line="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/protocol/UserReq.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        <state>
+          <caret column="35" lean-forward="true" selection-start-column="35" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/api/UserApi.kt">
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/res/drawable/gender_nor_bg.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_reset_pwd.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_user_info.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_forget_pwd.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_register.xml">
+      <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <caret line="15" column="48" lean-forward="true" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/view/LoginView.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/injection/component/UserComponent.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="e#43#334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/repository/UserRepository.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="22" column="68" selection-start-line="22" selection-start-column="68" selection-end-line="22" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/ProgressLoading.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+          <folding>
+            <element signature="e#33#256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/VerifyButton.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="69" selection-start-line="40" selection-start-column="69" selection-end-line="40" selection-end-column="69" />
+          <folding>
+            <element signature="e#38#186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/RoundRectImageView.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#664#685#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/DefaultTextWatcher.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/HeaderBar.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <element signature="e#43#380#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/BottomNavBar.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#38#131#0" expanded="true" />
+            <element signature="e#812#833#1" expanded="true" />
+            <element signature="e#1149#1174#1" expanded="true" />
+            <element signature="e#1487#1508#1" expanded="true" />
+            <element signature="e#1894#1914#1" expanded="true" />
+            <element signature="e#2353#2374#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/BannerImageLoader.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="e#38#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/LabelTextView.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding>
+            <element signature="e#33#247#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/fragment/BaseMvpFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+          <folding>
+            <element signature="e#42#699#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/activity/BaseMvpActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+          <folding>
+            <element signature="e#42#593#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/common/AppManager.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/debug/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/api/UserApi.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/service/UserService.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#31#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/service/impl/UserServiceImpl.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ext/CommonExt.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="50" column="1" lean-forward="true" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+          <folding>
+            <element signature="e#34#482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/LoginPresenter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_login.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="34" column="38" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/ui/activity/LoginActivity.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="66" column="4" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="4" />
+        <state relative-caret-position="113">
+          <caret line="42" column="7" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/ui/activity/RegisterActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
         </state>
       </provider>
     </entry>

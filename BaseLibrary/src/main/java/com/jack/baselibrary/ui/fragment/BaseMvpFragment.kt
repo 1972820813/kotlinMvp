@@ -22,11 +22,11 @@ import javax.inject.Inject
 open abstract class BaseMvpFragment<T : BasePresenter<*>> : BaseFragment(), BaseView {
 
     override fun showLoading() {
-        mDialog.showDialog()
+        mDialog.showLoading()
     }
 
     override fun hideLoading() {
-        mDialog.hideDialog()
+        mDialog.hideLoading()
     }
 
     override fun onError(text: String) {

@@ -4,10 +4,10 @@ import com.jack.baselibrary.presenter.view.BaseView
 
 /**
  * Created by lcw
- * on 2019-08-29
+ * on 2019-08-28
  */
 interface LoginView : BaseView {
-    //toast
-    fun showToast(message: String)
+    //请求结果回调
+    fun onLoginResult(result: String)
 
 }

@@ -1,9 +1,8 @@
-package com.jack.user.ui.activity
+package com.kotlin.user.ui.activity
 
 import android.os.Bundle
-import android.view.KeyEvent
-import com.jack.baselibrary.common.AppManager
-import com.jack.baselibrary.ext.onClick
+import android.view.View
+import com.jack.baselibrary.ext.enable
 import com.jack.baselibrary.ui.activity.BaseMvpActivity
 import com.jack.user.R
 import com.jack.user.injection.component.DaggerUserComponent
@@ -11,60 +10,79 @@ import com.jack.user.injection.module.UserModule
 import com.jack.user.presenter.RegisterPresenter
 import com.jack.user.presenter.view.RegisterView
 import kotlinx.android.synthetic.main.activity_register.*
+import org.jetbrains.anko.startActivity
 import org.jetbrains.anko.toast
 
-/**
- * Created by lcw
- * on 2019-08-28
+/*
+    注册界面
  */
-class RegisterActivity : BaseMvpActivity<RegisterPresenter>(), RegisterView {
-
-    override fun injectComponent() {
-        DaggerUserComponent.builder().activityComponent(mActivityComponent).userModule(UserModule()).build()
-            .inject(this)
-
-        mPresenter.mView = this
-    }
-
-    //监听回调
-    override fun onRegisterResult(result: String) {
-        toast(result)
-    }
+class RegisterActivity : BaseMvpActivity<RegisterPresenter>(), RegisterView, View.OnClickListener {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_register)
 
-        //初始化presenter
-//        mPresenter = RegisterPresenter()
-        //初始化view
+        initView()
 
-        text.onClick {
-            mPresenter.register("", "", "")
-        }
-
-//        text.setOnClickListener {
-//            //通过presenter进行业务逻辑处理
-//            mPresenter.register("", "", "")
-////            startActivity<LoginActivity>("id" to 10)
-//        }
     }
 
-    //按两次退出程序
-    private var exitTime: Long = 0
+    /*
+        初始化视图
+     */
+    private fun initView() {
 
-    override fun onKeyDown(keyCode: Int, event: KeyEvent): Boolean {
-        if (keyCode == KeyEvent.KEYCODE_BACK && event.action == KeyEvent.ACTION_DOWN) {
+        mRegisterBtn.enable(mMobileEt) { isBtnEnable() }
+        mRegisterBtn.enable(mVerifyCodeEt) { isBtnEnable() }
+        mRegisterBtn.enable(mPwdEt) { isBtnEnable() }
+        mRegisterBtn.enable(mPwdConfirmEt) { isBtnEnable() }
 
-            val time = System.currentTimeMillis()
-            if (time - exitTime > 2000) {
-                toast("再按一次退出程序")
-                exitTime = time
-            } else {
-                AppManager.instance.exitApp(this)
+        mVerifyCodeBtn.setOnClickListener(this)
+        mRegisterBtn.setOnClickListener(this)
+    }
+
+    /*
+        Dagger注册
+     */
+    override fun injectComponent() {
+        DaggerUserComponent.builder().activityComponent(mActivityComponent).userModule(UserModule()).build()
+            .inject(this)
+        mPresenter.mView = this
+    }
+
+    /*
+        注册回调
+     */
+    override fun onRegisterResult(result: String) {
+        toast(result)
+        startActivity<LoginActivity>()
+    }
+
+    /*
+        点击事件
+     */
+    override fun onClick(view: View) {
+        when (view.id) {
+            R.id.mVerifyCodeBtn -> {
+                //注册按钮
+                mVerifyCodeBtn.requestSendVerifyNumber()
+                toast("发送验证成功")
+
+                //处理与服务器的逻辑
             }
-            return true
+
+            R.id.mRegisterBtn -> {
+                mPresenter.register(mMobileEt.text.toString(), mPwdEt.text.toString(), mVerifyCodeEt.text.toString())
+            }
         }
-        return super.onKeyDown(keyCode, event)
+    }
+
+    /*
+        判断按钮是否可用
+     */
+    private fun isBtnEnable(): Boolean {
+        return mMobileEt.text.isNullOrEmpty().not() &&
+                mVerifyCodeEt.text.isNullOrEmpty().not() &&
+                mPwdEt.text.isNullOrEmpty().not() &&
+                mPwdConfirmEt.text.isNullOrEmpty().not()
     }
 }
