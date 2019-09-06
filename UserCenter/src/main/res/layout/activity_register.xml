@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <com.jack.baselibrary.widgets.HeaderBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:isShowBack="true"
+            app:rightText="登录"
+            app:titleText="注册"/>
+
+    <TextView
+            android:id="@+id/text"
+            android:gravity="center"
+            android:textSize="22dp"
+            android:text="你好"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+</LinearLayout>
