@@ -76,24 +76,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40422fff-de57-457a-99e6-3925dd5896f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/DefaultTextWatcher.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/LabelTextView.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/RoundRectImageView.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/VerifyButton.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/protocol/UserReq.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/ui/activity/LoginActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/res/drawable-xxhdpi/icon_phone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/res/drawable-xxhdpi/icon_pwd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/res/drawable-xxhdpi/icon_user_name.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/res/drawable-xxhdpi/icon_verify_code.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/res/drawable/gender_bg_selector.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/res/drawable/gender_checked_bg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/res/drawable/gender_nor_bg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/res/drawable/gender_text_selector.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_forget_pwd.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_reset_pwd.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_user_info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserCenter/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaseLibrary/src/main/res/xml/network_security_config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -104,24 +87,21 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_0_0_rc01_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_glide_3_7_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__de_hdodenhof_circleimageview_2_1_0_aar.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ext/CommonExt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ext/CommonExt.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/activity/BaseMvpActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/activity/BaseMvpActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/fragment/BaseMvpFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/fragment/BaseMvpFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/HeaderBar.kt" beforeDir="false" afterPath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/HeaderBar.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/ProgressLoading.kt" beforeDir="false" afterPath="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/ProgressLoading.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseLibrary/BaseLibrary.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BaseLibrary/BaseLibrary.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseLibrary/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/BaseLibrary/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Provider/Provider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Provider/Provider.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/UserCenter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/UserCenter.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserCenter/src/main/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/debug/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/api/UserApi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/api/UserApi.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/repository/UserRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/repository/UserRepository.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/injection/component/UserComponent.kt" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/injection/component/UserComponent.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/LoginPresenter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/LoginPresenter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/view/LoginView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/view/LoginView.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/service/UserService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/service/UserService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/service/impl/UserServiceImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/service/impl/UserServiceImpl.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/ui/activity/RegisterActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/ui/activity/RegisterActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_login.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_register.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_register.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserCenter/src/main/release/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UserCenter/src/main/release/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -154,38 +134,96 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/ui/activity/LoginActivity.kt">
+        <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/activity/BaseMvpActivity.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="42" column="7" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
+            <state relative-caret-position="482">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/api/UserApi.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BaseLibrary/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/data/net/RetrofitFactory.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/res/xml/network_security_config.xml">
+          <provider editor-type-id="android-designer2" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="28" selection-start-line="7" selection-end-line="8" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UserCenter/src/main/debug/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UserCenter/src/main/release/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/ui/activity/RegisterActivity.kt">
+        <entry file="file://$PROJECT_DIR$/gradle.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UserCenter/src/main/res/layout/activity_login.xml">
-          <provider editor-type-id="android-designer2" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="34" column="38" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/LoginPresenter.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+            <state relative-caret-position="238">
+              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -199,6 +237,7 @@
         <option value="Kotlin Interface" />
         <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="resourceFile" />
       </list>
     </option>
   </component>
@@ -214,10 +253,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/java/com/jack/kotlinmall/MainActivity.kt" />
-        <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/injection/module/UserModule.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/view/RegisterView.kt" />
         <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/BaseMvpActivity.kt" />
         <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/fragment/BaseFragment.kt" />
         <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/activity/BaseActivity.kt" />
@@ -236,7 +271,6 @@
         <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/common/ResultCode.kt" />
         <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/RegisterPresenter.kt" />
         <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/view/LoginPresenter.kt" />
-        <option value="$PROJECT_DIR$/BaseLibrary/build.gradle" />
         <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/data/net/RetrofitFactory.kt" />
         <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/api/UserApi.kt" />
         <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/view/LoginView.kt" />
@@ -259,12 +293,17 @@
         <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/widgets/BannerImageLoader.kt" />
         <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/fragment/BaseMvpFragment.kt" />
         <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/activity/BaseMvpActivity.kt" />
-        <option value="$PROJECT_DIR$/UserCenter/src/main/debug/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/service/impl/UserServiceImpl.kt" />
         <option value="$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ext/CommonExt.kt" />
         <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/ui/activity/LoginActivity.kt" />
         <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/presenter/LoginPresenter.kt" />
         <option value="$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/ui/activity/RegisterActivity.kt" />
+        <option value="$PROJECT_DIR$/BaseLibrary/build.gradle" />
+        <option value="$PROJECT_DIR$/UserCenter/src/main/release/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/BaseLibrary/src/main/res/xml/network_security_config.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/UserCenter/src/main/debug/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/gradle.properties" />
       </list>
     </option>
   </component>
@@ -277,7 +316,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <hideEmptyPackages AndroidView="true" ProjectPane="true" />
       <abbreviatePackageNames AndroidView="true" />
       <foldersAlwaysOnTop value="true" />
@@ -285,71 +324,7 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
-              <item name="BaseLibrary" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
-              <item name="BaseLibrary" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-            </path>
-            <path>
-              <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
-              <item name="UserCenter" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
-              <item name="UserCenter" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
-              <item name="UserCenter" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="user" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
-              <item name="UserCenter" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="user" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
-              <item name="UserCenter" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="user" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
-              <item name="UserCenter" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="user" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
-              <item name="UserCenter" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="user" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-              <item name="activity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlinMall" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -360,7 +335,7 @@
             <path>
               <item name="KotlinMall" type="b2602c69:ProjectViewProjectNode" />
               <item name="KotlinMall" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="UserCenter" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -577,13 +552,13 @@
       <window_info id="Resources Explorer" order="7" />
       <window_info id="Capture Tool" order="8" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32960895" />
-      <window_info anchor="bottom" id="Logcat" order="1" weight="0.7932961" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.49928468" weight="0.7932961" />
       <window_info anchor="bottom" id="TODO" order="2" weight="0.32960895" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32960895" />
-      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5007153" side_tool="true" weight="0.4301676" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5007153" side_tool="true" weight="0.7932961" />
       <window_info anchor="bottom" id="Build" order="5" sideWeight="0.49928468" weight="0.4301676" />
       <window_info anchor="bottom" id="Android Profiler" order="6" weight="0.32960895" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.49928468" weight="0.55307263" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.4985694" weight="0.55307263" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.32960895" />
       <window_info anchor="bottom" id="Find" order="9" weight="0.32960895" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
@@ -613,66 +588,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/70fca5cd856d0cc740e43affeb6f661204fdb2cc/okhttp-3.4.1-sources.jar!/okhttp3/internal/connection/StreamAllocation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="281" selection-start-line="281" selection-end-line="281" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/70fca5cd856d0cc740e43affeb6f661204fdb2cc/okhttp-3.4.1-sources.jar!/okhttp3/internal/http/RetryAndFollowUpInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/70fca5cd856d0cc740e43affeb6f661204fdb2cc/okhttp-3.4.1-sources.jar!/okhttp3/RealCall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="82" selection-start-line="82" selection-end-line="82" />
-          <folding>
-            <element signature="e#2733#2734#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/3564ebef90ac75e61ed65ab9af0f422ce92d4afa/retrofit-2.1.0-sources.jar!/retrofit2/OkHttpCall.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="230" selection-start-line="230" selection-end-line="230" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.retrofit/retrofit2-rxjava2-adapter/1.0.0/7c4445a9e74b30d72c2dc78165a3b68ec26c800c/retrofit2-rxjava2-adapter-1.0.0-sources.jar!/com/jakewharton/retrofit2/adapter/rxjava2/CallObservable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="72" selection-start-line="72" selection-end-line="72" />
-          <folding>
-            <element signature="e#2224#2225#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.10/9d22e03b9f0a300edff23ccf219d406d12c3378f/rxjava-2.2.10-sources.jar!/io/reactivex/internal/util/ExceptionHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="80" selection-start-line="80" selection-end-line="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.10/9d22e03b9f0a300edff23ccf219d406d12c3378f/rxjava-2.2.10-sources.jar!/io/reactivex/internal/util/AtomicThrowable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-          <folding>
-            <element signature="e#1297#1298#0" expanded="true" />
-            <element signature="e#1357#1358#0" expanded="true" />
-            <element signature="e#1612#1613#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.10/9d22e03b9f0a300edff23ccf219d406d12c3378f/rxjava-2.2.10-sources.jar!/io/reactivex/internal/operators/observable/ObservableFlatMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
@@ -974,35 +889,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/activity/BaseMvpActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
-          <folding>
-            <element signature="e#42#593#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/common/AppManager.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
           <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/debug/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/api/UserApi.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -1057,8 +947,83 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/ui/activity/RegisterActivity.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
+        <state relative-caret-position="106">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/java/com/jack/user/data/api/UserApi.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseLibrary/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/ui/activity/BaseMvpActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/java/com/jack/baselibrary/data/net/RetrofitFactory.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseLibrary/src/main/res/xml/network_security_config.xml">
+      <provider editor-type-id="android-designer2" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/release/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserCenter/src/main/debug/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
         </state>
       </provider>
     </entry>
