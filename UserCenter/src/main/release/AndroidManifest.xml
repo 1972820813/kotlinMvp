@@ -11,6 +11,10 @@
             tools:ignore="GoogleAppIndexingWarning">
 
         <activity android:name="com.kotlin.user.ui.activity.LoginActivity"/>
+        <activity android:name="com.kotlin.user.ui.activity.ForgetPwdActivity"/>
+        <activity android:name="com.kotlin.user.ui.activity.RegisterActivity"/>
+        <activity android:name="com.kotlin.user.ui.activity.ResetPwdActivity"/>
+        <activity android:name="com.kotlin.user.ui.activity.UserInfoActivity"/>
 
     </application>
 

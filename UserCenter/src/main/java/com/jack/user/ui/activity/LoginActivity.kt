@@ -10,10 +10,11 @@ import com.jack.user.injection.module.UserModule
 import com.jack.user.presenter.LoginPresenter
 import com.jack.user.presenter.view.LoginView
 import kotlinx.android.synthetic.main.activity_login.*
+import org.jetbrains.anko.startActivity
 import org.jetbrains.anko.toast
 
 /*
-    注册界面
+    登录界面
  */
 class LoginActivity : BaseMvpActivity<LoginPresenter>(), LoginView, View.OnClickListener {
 
@@ -34,6 +35,8 @@ class LoginActivity : BaseMvpActivity<LoginPresenter>(), LoginView, View.OnClick
         mLoginBtn.enable(mMobileEt) { isBtnEnable() }
         mLoginBtn.enable(mPwdEt) { isBtnEnable() }
 
+        mHeaderBar.getRightView().setOnClickListener(this)
+
         mForgetPwdTv.setOnClickListener(this)
         mLoginBtn.setOnClickListener(this)
     }
@@ -49,7 +52,7 @@ class LoginActivity : BaseMvpActivity<LoginPresenter>(), LoginView, View.OnClick
 
     override fun onLoginResult(result: String) {
         toast(result)
-        finish()
+        startActivity<UserInfoActivity>()
     }
 
     /*
@@ -60,11 +63,15 @@ class LoginActivity : BaseMvpActivity<LoginPresenter>(), LoginView, View.OnClick
             R.id.mForgetPwdTv -> {
 //                mVerifyCodeBtn.requestSendVerifyNumber()
                 toast("忘记密码")
+                startActivity<ForgetPwdActivity>()
             }
-
             R.id.mLoginBtn -> {
                 //登录
                 mPresenter.login("", "", "")
+            }
+            R.id.mRightTv -> {
+                startActivity<RegisterActivity>()
+
             }
         }
     }

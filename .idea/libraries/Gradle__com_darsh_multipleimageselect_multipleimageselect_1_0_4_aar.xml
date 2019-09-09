@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.darsh.multipleimageselect:multipleimageselect:1.0.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9841b0ba0fd4e53f624d6ab6831e2353/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9841b0ba0fd4e53f624d6ab6831e2353/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.darsh.multipleimageselect/multipleimageselect/1.0.4/624c0871c9c3e84234e187aa7e9781f4e5418259/multipleimageselect-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

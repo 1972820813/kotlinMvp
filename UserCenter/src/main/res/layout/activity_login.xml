@@ -6,8 +6,8 @@
             android:id="@+id/mHeaderBar"
             style="@style/MatchWrap"
             app:titleText="登录"
-            app:rightText="注册"
-    />
+            app:rightText="注册"/>
+    
     <LinearLayout android:background="@drawable/border_corner_all"
                   android:layout_margin="@dimen/common_margin"
                   style="@style/MatchWrap.Vertical">
